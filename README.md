@@ -1,1 +1,1 @@
-# LabsOpenGL
+# Лабораторные работы по OpenGL
